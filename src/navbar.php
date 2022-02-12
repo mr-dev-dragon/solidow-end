@@ -14,12 +14,12 @@
       <div class="offcanvas-body">
         <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
           <li class="nav-item">
-            <a style="  color: black;"   class="nav-link active" aria-current="page" href="#">
+            <a style="  color: black;"   class="nav-link active" aria-current="page" href="src/features.html">
               Features
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" style="  color: black;"   href="#">pricing</a>
+            <a class="nav-link" style="  color: black;"   href="src/pricing.html">pricing</a>
           </li>
           <li class="nav-item dropdown">
             <a style="  color: black;"   class="nav-link dropdown-toggle" href="#" id="offcanvasNavbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -44,7 +44,7 @@
             <a class="nav-link"  style="  color: #fff;" href="src/features.html">Features</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" style="  color: #fff;" href="#">Pricing</a>
+            <a class="nav-link" style="  color: #fff;" href="src/pricing.html">Pricing</a>
           </li>
           <li class="nav-item dropdown">
             <a   style="  color: #fff;" class="nav-link dropdown-toggle" href="#" id="offcanvasNavbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">

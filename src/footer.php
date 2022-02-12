@@ -1,14 +1,12 @@
 
   <section class="d-flex justify-content-center mt-5 justify-content-lg-between p-4 border-bottom">
     <div>
-      <a href="" class="me-4 text-reset"><i class="bi bi-facebook"></i></a>
-      <a href="" class="me-4 text-reset"><i class="bi bi-twitter"></i></a>
-      <a href="" class="me-4 text-reset"><i class="bi bi-github"></i></a>
-      <a href="" class="me-4 text-reset"><i class="bi bi-instagram"></i></a>
-      <a href="" class="me-4 text-reset"><i class="bi bi-linkedin"></i></a>
-      <a href="https://github.com/Ahmed-Aoulad-Amar?tab=repositories" class="me-4 text-reset">
-        <i class="fab fa-github"></i>
-      </a>
+      <a href="#" class="me-4 text-reset"><i class="bi bi-facebook"></i></a>
+      <a href="#" class="me-4 text-reset"><i class="bi bi-twitter"></i></a>
+      <a href="https://github.com/Ahmed-Aoulad-Amar?tab=repositories" class="me-4 text-reset"><i class="bi bi-github"></i></a>
+      <a href="#" class="me-4 text-reset"><i class="bi bi-instagram"></i></a>
+      <a href="#" class="me-4 text-reset"><i class="bi bi-linkedin"></i></a>
+
     </div>
   </section>
 
