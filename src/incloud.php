@@ -6,8 +6,10 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.0/font/bootstrap-icons.css">
     <title>php project</title>
     <style>
-        *{
-            margin: 0;
+            *{
+
             padding: 0;
-        }
+            margin: 0;
+
+            }
     </style>

@@ -41,7 +41,7 @@
             <a class="nav-link"  style="  color: #fff;"   aria-current="page" href="#"><?php include "src/logos/logo.php" ?></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link"  style="  color: #fff;" href="#">Features</a>
+            <a class="nav-link"  style="  color: #fff;" href="src/features.html">Features</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" style="  color: #fff;" href="#">Pricing</a>
@@ -60,7 +60,5 @@
         </ul>
       </div>
     </div>
-  </nav>
-
-
+  </nav> 
     <?php include "header.php" ?>

@@ -26,21 +26,21 @@
                 <div class="col d-flex justify-content-center">
                   <div class="  form-check">
                       <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
-                      <label class="form-check-label" for="inlineRadio2">5-10</label>
+                      <label class="form-check-label" for="inlineRadio2"><p class='smoler'>5-10</p></label>
                   </div>
                 </div>
                 
                 <div class="col d-flex justify-content-center">
                   <div class="  form-check">
                       <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
-                     <label class="form-check-label" for="inlineRadio2">15-20</label>
+                     <label class="form-check-label" for="inlineRadio2"><p class='smoler'>15-20</p></label>
                   </div>
                 </div>
                 
                 <div class="col d-flex justify-content-center">
                   <div class="  form-check">
                       <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
-                    <label class="form-check-label" for="inlineRadio2">-30 </label>
+                    <label class="form-check-label" for="inlineRadio2"> <p class='smoler'>-30 </p></label>
                   </div>
                 </div>
                  <div class="col d-flex justify-content-center"></div>
