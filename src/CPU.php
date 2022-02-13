@@ -148,8 +148,7 @@
             #tranche2{
                 display: none;
             }
-         </style>"; 
-
+         </style>";
         } 
         //tranche 6 (>511kwh)
         if ($consomation >= 511 ){
