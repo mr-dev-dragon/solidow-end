@@ -1,4 +1,4 @@
- <?php include "src/read-data.php" ?>
+
 <?php
 
     global $total;
@@ -149,7 +149,7 @@
                 display: none;
             }
          </style>"; 
-         
+
         } 
         //tranche 6 (>511kwh)
         if ($consomation >= 511 ){
