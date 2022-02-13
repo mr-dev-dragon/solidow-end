@@ -1,3 +1,5 @@
+ 
+   <?php include "src/CPU.php" ?>
  <!DOCTYPE html>
  <html lang="en">
  <head>
