@@ -1,5 +1,4 @@
 
-
 <!--  srart_table-srart_table-srart_table-srart_table- -->
 <table class="table table-borderless border mt-0 mb-0  border-3 border-primary">
    <thead class="border border-primary border-3 " >
@@ -167,7 +166,7 @@
                   <td ></td>
                   <td></td>
                   <td ></td>
-                  <td >0,45</td>
+                  <td >0,45 dh</td>
                   <td class='  float-end'>الطابع</td>
             </tr>
          </tbody>
@@ -182,11 +181,11 @@
                   <td ></td>  
                   <td ></td>
                   <td ><strong>
-                         <?php echo round($MontantHT,2)  ?>
+                         <?php echo round($MontantHT,2) . " DH"   ?>
                   </strong></td>
                   <td ></td>
                   <td><strong>
-                         <?php echo round($sous_total,2) ?>
+                         <?php echo round($sous_total,2) . " DH"  ?>
                   </strong></td>
                   <td class='  float-end' > <strong> المجموع الجزي</strong></td>
             </tr>
@@ -198,23 +197,24 @@
  
 
        <!--  srart_table-srart_table-srart_table-srart_table- -->
-   <table class="table mt-0 table-striped table-hover  table-borderless border border-top-0   border-3 border-primary">
+   <table  class="table popo mt-0 table-striped table-hover  table-borderless border border-top-0   border-3 border-primary">
         </tbody>
              <tr  style='height:40px; font-size:  20px;'>
                   <td ><strong class='  float-start'>TOTAL ÉLECTRICITÉ</strong></td>
                   <td ></td>  
                   <td ></td>
                   <td  ><strong>
-                    <?php echo round($total,2) ?>
+                    <?php echo round($total,2) . " DH" ?>
                   </strong></td>
                   <td ></td>
                   <td ></td>
                   <td  > <strong class='  float-end'>مجموع الكھرباء </strong></td>
             </tr>
-            <tr style='height:40px;'> </tr>
+            <tr id="print" style='height:40px;'> </tr>
          </tbody>
    </table>
- 
+             
+
 
 
 
